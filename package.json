@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-testing",
+  "version": "1.0.0",
+  "description": "Ready to use blockchain technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Teondol/blockchain-testing.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Teondol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teondol/blockchain-testing/issues"
+  },
+  "homepage": "https://github.com/Teondol/blockchain-testing#readme",
+  "dependencies": {
+    "api-wilayah-idn": "^1.0.1"
+  }
+}
